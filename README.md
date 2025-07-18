@@ -1,3 +1,3 @@
 # Music-App🎶
 
-### A front-end framework for music apps that uses HarmonyOS ArkTS as the technology stack
+(HarmonyOS)ArkTS-based front-end framework && Node.js-based backend services
