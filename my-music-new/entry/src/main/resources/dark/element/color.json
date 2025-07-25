@@ -1,0 +1,25 @@
+{
+  "color": [
+    { "name": "start_window_background", "value": "#000000" },
+    { "name": "page_background", "value": "#1C1C1E" },
+    { "name": "primary", "value": "#701e5e" },
+    { "name": "primary_light", "value": "#4A90E2" },
+    { "name": "primary_dark", "value": "#0056CC" },
+    { "name": "surface", "value": "#232326" },
+    { "name": "text_primary", "value": "#FFFFFF" },
+    { "name": "text_secondary", "value": "#CCCCCC" },
+    { "name": "text_tertiary", "value": "#888888" },
+    { "name": "divider", "value": "#232326" },
+    { "name": "border", "value": "#333333" },
+    { "name": "error", "value": "#F5222D" },
+    { "name": "success", "value": "#52C41A" },
+    { "name": "warning", "value": "#FAAD14" },
+    { "name": "slider_track", "value": "#444444" },
+    { "name": "slider_selected", "value": "#007DFF" },
+    { "name": "slider_block", "value": "#FFFFFF" },
+    { "name": "surface_content", "value": "#232326" },
+    { "name": "primary_color", "value": "#701e5e" },
+    { "name": "surface_light", "value": "#4a1441" },
+    { "name": "border_light", "value": "#333333" }
+  ]
+}

@@ -1,0 +1,6 @@
+---
+alwaysApply: true
+
+1. 如果用到了资源文件那么请使用 entry/src/main/resources/base/media 目录下的自定义文件，而不要使用系统资源。如果资源不存在，那么先构造资源路径来占位
+2. 开发过程中请参考数据库表结构 database/my-app.sql
+---

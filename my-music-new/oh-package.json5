@@ -1,0 +1,10 @@
+{
+  "modelVersion": "5.1.1",
+  "description": "一个基于HarmonyOS的音乐播放器应用，支持本地音乐播放、播放列表管理等功能。",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.21",
+    "@ohos/hamock": "1.0.0"
+  }
+}

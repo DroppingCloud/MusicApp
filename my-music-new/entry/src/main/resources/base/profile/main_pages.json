@@ -1,0 +1,17 @@
+{
+  "src": [
+    "pages/Auth/AuthPage",
+    "pages/Index",
+    "pages/Search/SearchPage",
+    "pages/Search/SearchResultPage",
+    "pages/Playlist/PlaylistDetailPage",
+    "pages/Player/PlayerPage",
+    "pages/Artist/ArtistDetailPage",
+    "pages/Album/AlbumDetailPage",
+    "pages/Profile/FavoritesPage",
+    "pages/Profile/PlayHistoryPage",
+    "pages/Profile/MyPlaylistsPage",
+    "pages/Profile/ProfilePage",
+    "pages/Profile/ChangeThemeColor"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "BiuBiu音乐"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "此应用需要网络权限来连接音乐服务器，提供登录、注册和音乐播放功能"
+    },
+    {
+      "name": "Microphone_reason",
+      "value": "申请麦克风权限用于语音识别"
+    },
+    {
+      "name": "read_media_permission_reason",
+      "value": "此应用需要读取媒体文件权限来选择和上传用户头像"
+    },
+    {
+      "name": "write_media_permission_reason",
+      "value": "此应用需要写入媒体文件权限来保存和管理用户上传的内容"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "音乐播放器应用主模块",
+  "main": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
+
